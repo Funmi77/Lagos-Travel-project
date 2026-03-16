@@ -126,3 +126,9 @@ footer a {
     font-size: 12px;
   }
 }
+
+img {
+  width: 570px;
+  height: 461px;
+  object-fit: cover;
+}
